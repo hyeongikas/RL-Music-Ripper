@@ -27,7 +27,7 @@ Open source Rocket League audio ripping for version v.1.95 of the game!
 ## How to
 - On Windows:
     - Drag and drop any .bnk File into RocketMusic-Decryptor\bnk2wem\bnkextr.exe\. (If you only want decrypt a .wem File you can skip this step.)
-    - Drag and drop the .wem File(s) from the output folder into C:\Users\Raphael\Desktop\RLMusicRipper\wem2ogg\.
+    - Drag and drop the .wem File(s) from the output folder into C:\Users\Seoung\Desktop\RLMusicRipper\wem2ogg\.
     - Run the convert.bat file.
     - Enjoy your converted ```ogg```, files :)
 
