@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to R RL-Music-Ripper 🎵</h1>
+<h1 align="center">Welcome to RL-Music-Ripper 🎵</h1>
 
 Open source Rocket League audio ripping for version v.1.95 of the game!
 
