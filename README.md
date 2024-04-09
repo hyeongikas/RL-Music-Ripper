@@ -2,7 +2,8 @@
 
 Welcome to RL-Music-Ripper, an open-source tool designed for extracting audio from Rocket League, specifically developed for version v.1.95 of the game!
 
-![Random Rocket League Image](https://i.imgur.com/abcdefg.jpg](https://images3.alphacoders.com/820/820080.jpg)
+![Random Rocket League Image](https://images3.alphacoders.com/820/820080.jpg)
+
 
 ## What's Working?
 
