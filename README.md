@@ -1,44 +1,40 @@
-<h1 align="center">Welcome to RL-Music-Ripper 🎵</h1>
+# Welcome to RL-Music-Ripper 🎵
 
-Open source Rocket League audio ripping for version v.1.95 of the game!
-
+Welcome to RL-Music-Ripper, an open-source tool designed for extracting audio from Rocket League, specifically developed for version v.1.95 of the game!
 
 ![ScreenShot](https://i.imgur.com/8SFtDvl.jpg) 
 
+## What's Working?
 
-## What's working ?
-- Audio Converter
-  - bnk2wem Converts a .bnk file into a .wem
-  - wem2ogg Converts a .wem file into a .ogg
+- **Audio Converter**:
+  - **bnk2wem**: Converts .bnk files into .wem format.
+  - **wem2ogg**: Converts .wem files into .ogg format.
 
-## To do
+## To Do List
 
-- ogg2wem
-- wem2bnk
-
-
-
+- **ogg2wem**
+- **wem2bnk**
 
 ## Information
-- This is tested with version 1.95 Season 3
-    - Newer Audio Files maybe not work.
-	
 
-## How to
-- On Windows:
-    - Drag and drop any .bnk File into RocketMusic-Decryptor\bnk2wem\bnkextr.exe\. (If you only want decrypt a .wem File you can skip this step.)
-    - Drag and drop the .wem File(s) from the output folder into C:\Users\Seoung\Desktop\RLMusicRipper\wem2ogg\.
-    - Run the convert.bat file.
-    - Enjoy your converted ```ogg```, files :)
+- This version is tested with Rocket League version 1.95 of Season 3.
+    - Note: Newer audio files may not be compatible.
 
+## How to Use
+
+### On Windows:
+- Drag and drop any .bnk file into RocketMusic-Decryptor\bnk2wem\bnkextr.exe\. (Skipping this step if you only wish to decrypt a .wem file.)
+- Drag and drop the .wem file(s) from the output folder into C:\Users\Seoung\Desktop\RLMusicRipper\wem2ogg\.
+- Run the convert.bat file.
+- Enjoy your converted .ogg files! :)
 
 ## Authors
 
-👤 **Rosekey** (main developer)
+👤 **hyeongikas** (Based on another person's application)
 
-* Github: [@rosakey](https://github.com/rosakey)
-* Discord: 2уα_yooи#0027
+* Github: [@hyeongikas](https://github.com/hyeongikas)
+* Discord: jiyupepperoni
 
-## Show your support
+## Show Your Support
 
-Give a ⭐️ if this project helped you!
+If this project helped you, please give it a ⭐️! Thank you!
