@@ -1,1 +1,20 @@
+cmake_minimum_required(VERSION 3.10)
+project(ww2ogg)
 
+# Add C++11 standard support
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Add executable target
+add_executable(ww2ogg ww2ogg.cpp codebook.cpp wwriff.cpp)
+
+# Include directories
+target_include_directories(ww2ogg PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
+
+# You may need to adjust the include directories based on the actual structure of your project.
+# If wwriff.h and errors.h are in a different directory, you should add that directory here.
+
+# Link libraries if needed (not necessary in this case)
+
+# Install the executable (optional)
+install(TARGETS ww2ogg DESTINATION bin)
